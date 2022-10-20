@@ -3,7 +3,7 @@
 ## Overview
 
 ### Screenshot
-![Design preview for the Article preview component coding challenge](/images/desktop-screenshot.png)
+![Design preview for the Article preview component coding challenge](/design/desktop-preview.jpg)
 
 ### Challenge
 
